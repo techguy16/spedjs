@@ -1,0 +1,2 @@
+# spedjs
+Speedy JS Library
